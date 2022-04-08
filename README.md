@@ -23,5 +23,5 @@ Django
 # Future Work
 - Add scientific calculation
 
-# Resources:
-- ![Getting started with Django](https://www.djangoproject.com/start/)
+# Reference:
+- Getting started with Django (https://www.djangoproject.com/start/)
